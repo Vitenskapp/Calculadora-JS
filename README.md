@@ -1,6 +1,7 @@
-## Calculadora JS
- Desenvolvi uma calculadora web minimalista utilizando HTML, CSS e JavaScript. Essa ferramenta permite realizar operações básicas de forma rápida.
+ <h1>Calculadora JS</h1>
+ Desenvolvi uma calculadora web minimalista utilizando <strong>HTML, CSS e JavaScript.</strong> Essa ferramenta permite realizar operações básicas de forma rápida.
  <hr>
- 
-![Calculadora](assets/Calculadora.png)
 
+<img src="assets/Calculadora.png" style="border-radius: 10px;">
+ 
+<hr>
